@@ -4,3 +4,4 @@ for filename in os.listdir(r'c:\windows'):
 print "end"
 print "end2"
 
+print "endl6"
