@@ -35,5 +35,5 @@ print txt_again.readlines(1)
 txt.close()
 txt_again.close()
 print "end9"
-
+print "end10 g1@cyg"
 
