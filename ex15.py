@@ -1,7 +1,6 @@
 '''
 Created on Apr 16, 2011
-
-
+LPTHW
 @author: Nako
 '''
 
@@ -35,5 +34,8 @@ print txt_again.readlines(1)
 txt.close()
 txt_again.close()
 print "end9"
+<<<<<<< HEAD
 print "end10 g1@cyg"
 
+=======
+>>>>>>> 652b8b7efce75dd243a106c01464858408aea5ac
